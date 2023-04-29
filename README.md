@@ -1,0 +1,2 @@
+# Vision-Based-Fall-Detection-System-For-Patients-Requiring-Supervision-Using-Neural-Networks
+This project aims to develop a vision-based system that will detect and alert caregivers in case of a fall, improving the safety and well-being of the elderly. The project will utilize deep learning techniques such as convolutional neural networks (CNNs) and long short-term memory (LSTM) to analyze video feeds and predict falls.
